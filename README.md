@@ -2,7 +2,9 @@
 This is a support page of paper : 
 Guo, W., Fukano1,Y.,  Noshita, K., Ninomiya, S..(2020) Field-based individual plant phenotyping of herbaceous species by unmanned aerial vehicle  
 Before test the source code, the following dirctory of files should be downloaded to your PC.
-![directory tree](https://github.com/oceam/WEIPS/blob/master/filetree.pdf)
+![directory1](https://github.com/oceam/WEIPS/blob/master/filetree_1.jpg)
+![directory2](https://github.com/oceam/WEIPS/blob/master/filetree_2.jpg)
+
 Then, 
 1. Run "step1_copyexperimentRe.m" if you need to copy the related files from Pix4Dmapper.
 2. open folder "makeSegModel", follow the steps to generate the color-based segmentation model.
